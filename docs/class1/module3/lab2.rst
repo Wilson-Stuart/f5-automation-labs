@@ -188,7 +188,7 @@ a ``GET``` against AS3 for the current users ''Tenant'' and display it within
 the Job output.
 
 #. Navigate to :guilabel:`Templates` in the GUI and select the
-   ``Rocket-Ship Icon`` next to the Template titled ``Tenant1_Deploy_Config``.
+   ``Rocket-Ship Icon`` next to the Template titled ``Tenant1_View_Config``.
 
    |lab-2-5|
 
